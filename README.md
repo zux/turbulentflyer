@@ -8,5 +8,4 @@ Sobald jemand, also quasie Du Peter, bestätigt, daß er auch UTF-16
 
 Sinn: eigentlich keiner, ausser zu Testzwecken.
 
-
 tryout repository 
