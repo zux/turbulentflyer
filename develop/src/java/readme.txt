@@ -1,0 +1,1 @@
+﻿als erstes sollte man sich mal eine projekt-verzeichnisstruktur überlegen
